@@ -1,0 +1,11 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/lightbrew/web",
+  "author": "Chris Asche <chris.asche@gmail.com>",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "particle-api-js": "^6.5.0"
+  }
+}
